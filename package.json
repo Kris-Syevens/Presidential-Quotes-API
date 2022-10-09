@@ -1,0 +1,19 @@
+{
+  "name": "presidential-quotes-api",
+  "version": "1.0.0",
+  "description": "REST API that serves famous quotes from US Presidents.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Kris Syevens",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}

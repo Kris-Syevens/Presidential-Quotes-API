@@ -1,0 +1,442 @@
+{
+  "data": [
+    {
+      "name": "George Washington",
+      "party": "No Affiliation",
+      "serveOrder": 1,
+      "termBegin": 1789,
+      "termEnd": 1797,
+      "vicePresident": "John Adams",
+      "quotes": [
+        "As the first of everything, in our situation will serve to establish a Precedent, it is devoutly wished on my part, that these precedents may be fixed on true principles.",
+        "We should on all Occasions avoid a general Action, or put anything to the Risque, unless compelled by a necessity, into which we ought never to be drawn.",
+        "Heroes have made poets, and poets heroes.",
+        "When one side only of a story is heard and often repeated, the human mind becomes impressed with it insensibly.",
+        "I hold the maxim no less applicable to public than private affairs, that honesty is always the best policy."
+      ]
+    },
+    {
+      "name": "John Adams",
+      "party": "Federalist",
+      "serveOrder": 2,
+      "termBegin": 1797,
+      "termEnd": 1801,
+      "vicePresident": "Thomas Jefferson",
+      "quotes": [
+        "It is of more importance to the community, that innocence be protected, than it is, that guilt be punished; for guilt and crimes are so frequent in the world, that all of them cannot be punished.",
+        "There is nothing which I dread so much as a division of the republic into two great parties, each arranged under its leader, and concerting measures in opposition to each other. This, in my humble apprehension, is to be dreaded as the greatest political evil under our Constitution.",
+        "The right of a nation to kill a tyrant, in cases of necessity, can no more be doubted, than to hang a robber, or kill a flea. But killing one tyrant only makes way for worse, unless the people have sense, spirit and honesty enough to establish and support a constitution guarded at all points against the tyranny of the one, the few, and the many.",
+        "Our obligations to our country never cease but with our lives.",
+        "What do we mean by the Revolution? The war? That was no part of the revolution; it was only an effect and consequence of it. The revolution was in the minds of the people, and this was effected from 1760–1775, in the course of fifteen years, before a drop of blood was shed at Lexington."
+      ]
+    },
+    {
+      "name": "Thomas Jefferson",
+      "party": "Democratic-Republican",
+      "serveOrder": 3,
+      "termBegin": 1801,
+      "termEnd": 1809,
+      "vicePresident": ["Aaron Burr", "George Clinton"],
+      "quotes": [
+        "I hold it that a little rebellion now and then is a good thing, and as necessary in the political world as storms in the physical.",
+        "I consider the foundation of the Constitution as laid on this ground: That all powers not delegated to the United States, by the Constitution, nor prohibited by it to the States, are reserved to the States or to the people.",
+        "Here was buried Thomas Jefferson, author of the Declaration of American Independence, of the Statute of Virginia for Religious Freedom, and Father of the University of Virginia.",
+        "To preserve the freedom of the human mind then and freedom of the press, every spirit should be ready to devote itself to martyrdom; for as long as we may think as we will, and speak as we think, the condition of man will proceed in improvement.",
+        "The equal rights of man, and the happiness of every individual, are now acknowledged to be the only legitimate objects of government."
+      ]
+    },
+    {
+      "name": "James Madison",
+      "party": "Democratic-Republican",
+      "serveOrder": 4,
+      "termBegin": 1809,
+      "termEnd": 1817,
+      "vicePresident": ["George Clinton", "Elbridge Gerry"],
+      "quotes": [
+        "The United States while they wish for war with no nation, will buy peace with none, it being a principle incorporated into the settled policy of America, that as peace is better than war, so war is better than tribute.",
+        "The accumulation of all powers, Legislative, Executive, and Judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced the very definition of tyranny.",
+        "But what is Government itself, but the greatest of all reflections on human nature?",
+        "Conscience is the most sacred of all property.",
+        "Of all the enemies to public liberty war is, perhaps, the most to be dreaded, because it comprises and develops the germ of every other."
+      ]
+    },
+    {
+      "name": "James Monroe",
+      "party": "Democratic-Republican",
+      "serveOrder": 5,
+      "termBegin": 1817,
+      "termEnd": 1825,
+      "vicePresident": "Daniel D Tompkins",
+      "quotes": []
+    },
+    {
+      "name": "John Quincy Adams",
+      "party": "Whig",
+      "serveOrder": 6,
+      "termBegin": 1825,
+      "termEnd": 1829,
+      "vicePresident": "John C Calhoun",
+      "quotes": []
+    },
+    {
+      "name": "Andrew Jackson",
+      "party": "Democratic",
+      "serveOrder": 7,
+      "termBegin": 1829,
+      "termEnd": 1837,
+      "vicePresident": ["John C Calhoun", "Martin Van Buren"],
+      "quotes": []
+    },
+    {
+      "name": "Martin Van Buren",
+      "party": "Democratic",
+      "serveOrder": 8,
+      "termBegin": 1837,
+      "termEnd": 1841,
+      "vicePresident": "Richard M Johnson",
+      "quotes": []
+    },
+    {
+      "name": "William Henry Harrison",
+      "party": "Whig",
+      "serveOrder": 9,
+      "termBegin": 1841,
+      "termEnd": 1841,
+      "vicePresident": "John Tyler",
+      "quotes": []
+    },
+    {
+      "name": "John Tyler",
+      "party": "Whig",
+      "serveOrder": 10,
+      "termBegin": 1841,
+      "termEnd": 1845,
+      "vicePresident": "None",
+      "quotes": []
+    },
+    {
+      "name": "James K Polk",
+      "party": "Democratic",
+      "serveOrder": 11,
+      "termBegin": 1845,
+      "termEnd": 1849,
+      "vicePresident": "George M Dallas",
+      "quotes": []
+    },
+    {
+      "name": "Zachary Taylor",
+      "party": "Whig",
+      "serveOrder": 12,
+      "termBegin": 1849,
+      "termEnd": 1850,
+      "vicePresident": "Millard Fillmore",
+      "quotes": []
+    },
+    {
+      "name": "Millard Fillmore",
+      "party": "Know Nothing",
+      "serveOrder": 13,
+      "termBegin": 1850,
+      "termEnd": 1853,
+      "vicePresident": "None",
+      "quotes": []
+    },
+    {
+      "name": "Franklin Pierce",
+      "party": "Democratic",
+      "serveOrder": 14,
+      "termBegin": 1853,
+      "termEnd": 1857,
+      "vicePresident": "William R King",
+      "quotes": []
+    },
+    {
+      "name": "James Buchanan",
+      "party": "Democratic",
+      "serveOrder": 15,
+      "termBegin": 1857,
+      "termEnd": 1861,
+      "vicePresident": "John C Beckinridge",
+      "quotes": []
+    },
+    {
+      "name": "Abraham Lincoln",
+      "party": "National Union",
+      "serveOrder": 16,
+      "termBegin": 1861,
+      "termEnd": 1865,
+      "vicePresident": ["Hannibal Hamlin", "Andrew Johnson"],
+      "quotes": []
+    },
+    {
+      "name": "Andrew Johnson",
+      "party": "Democratic",
+      "serveOrder": 17,
+      "termBegin": 1865,
+      "termEnd": 1869,
+      "vicePresident": "None",
+      "quotes": []
+    },
+    {
+      "name": "Ulysses S Grant",
+      "party": "Republican",
+      "serveOrder": 18,
+      "termBegin": 1869,
+      "termEnd": 1877,
+      "vicePresident": ["Schuyler Colfax", "Henry Wilson"],
+      "quotes": []
+    },
+    {
+      "name": "Rutherford B Hayes",
+      "party": "Republican",
+      "serveOrder": 19,
+      "termBegin": 1877,
+      "termEnd": 1881,
+      "vicePresident": "William A Wheeler",
+      "quotes": []
+    },
+    {
+      "name": "James A Garfield",
+      "party": "Republican",
+      "serveOrder": 20,
+      "termBegin": 1881,
+      "termEnd": 1881,
+      "vicePresident": "Chester A Arthur",
+      "quotes": []
+    },
+    {
+      "name": "Chester A Arthur",
+      "party": "Republican",
+      "serveOrder": 21,
+      "termBegin": 1881,
+      "termEnd": 1885,
+      "vicePresident": "None",
+      "quotes": []
+    },
+    {
+      "name": "Grover Cleveland",
+      "party": "National Democratic",
+      "serveOrder": 22,
+      "termBegin": 1885,
+      "termEnd": 1889,
+      "vicePresident": "Thomas A Hendricks",
+      "quotes": []
+    },
+    {
+      "name": "Benjamin Harrison",
+      "party": "Republican",
+      "serveOrder": 23,
+      "termBegin": 1889,
+      "termEnd": 1893,
+      "vicePresident": "Levi P Morton",
+      "quotes": []
+    },
+    {
+      "name": "Grover Cleveland",
+      "party": "National Democratic",
+      "serveOrder": 24,
+      "termBegin": 1893,
+      "termEnd": 1897,
+      "vicePresident": "Adlai E Stevenson",
+      "quotes": []
+    },
+    {
+      "name": "William McKinley",
+      "party": "Republican",
+      "serveOrder": 25,
+      "termBegin": 1897,
+      "termEnd": 1901,
+      "vicePresident": ["Garret A Hobart", "Theodore Roosevelt"],
+      "quotes": []
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "party": "Republican",
+      "serveOrder": 26,
+      "termBegin": 1901,
+      "termEnd": 1909,
+      "vicePresident": "Charles W Fairbanks",
+      "quotes": []
+    },
+    {
+      "name": "William H Taft",
+      "party": "Republican",
+      "serveOrder": 27,
+      "termBegin": 1909,
+      "termEnd": 1913,
+      "vicePresident": "James S Sherman",
+      "quotes": []
+    },
+    {
+      "name": "Woodrow Wilson",
+      "party": "Democratic",
+      "serveOrder": 28,
+      "termBegin": 1913,
+      "termEnd": 1921,
+      "vicePresident": "Thomas R Marshall",
+      "quotes": []
+    },
+    {
+      "name": "Warren G Harding",
+      "party": "Republican",
+      "serveOrder": 29,
+      "termBegin": 1921,
+      "termEnd": 1923,
+      "vicePresident": "Calvin Coolidge",
+      "quotes": []
+    },
+    {
+      "name": "Calvin Coolidge",
+      "party": "Republican",
+      "serveOrder": 30,
+      "termBegin": 1923,
+      "termEnd": 1929,
+      "vicePresident": "Charles G Dawes",
+      "quotes": []
+    },
+    {
+      "name": "Herbert C Hoover",
+      "party": "Republican",
+      "serveOrder": 31,
+      "termBegin": 1929,
+      "termEnd": 1933,
+      "vicePresident": "Charles Curtis",
+      "quotes": []
+    },
+    {
+      "name": "Franklin D Roosevelt",
+      "party": "Democratic",
+      "serveOrder": 32,
+      "termBegin": 1933,
+      "termEnd": 1945,
+      "vicePresident": ["John N Garner", "Henry A Wallace", "Harry S Truman"],
+      "quotes": []
+    },
+    {
+      "name": "Harry S Truman",
+      "party": "Democratic",
+      "serveOrder": 33,
+      "termBegin": 1945,
+      "termEnd": 1953,
+      "vicePresident": "Alben W Barkley",
+      "quotes": []
+    },
+    {
+      "name": "Dwight D Eisenhower",
+      "party": "Republican",
+      "serveOrder": 34,
+      "termBegin": 1953,
+      "termEnd": 1961,
+      "vicePresident": "Richard M Nixon",
+      "quotes": []
+    },
+    {
+      "name": "John F Kennedy",
+      "party": "Democratic",
+      "serveOrder": 35,
+      "termBegin": 1961,
+      "termEnd": 1963,
+      "vicePresident": "Lyndon B Johnson",
+      "quotes": []
+    },
+    {
+      "name": "Lyndon B Johnson",
+      "party": "Democratic",
+      "serveOrder": 36,
+      "termBegin": 1963,
+      "termEnd": 1969,
+      "vicePresident": "Hubert H Humphrey",
+      "quotes": []
+    },
+    {
+      "name": "Richard M Nixon",
+      "party": "Republican",
+      "serveOrder": 37,
+      "termBegin": 1969,
+      "termEnd": 1974,
+      "vicePresident": ["Spiro T Agnew", "Gerald R Ford"],
+      "quotes": []
+    },
+    {
+      "name": "Gerald R Ford",
+      "party": "Republican",
+      "serveOrder": 38,
+      "termBegin": 1974,
+      "termEnd": 1977,
+      "vicePresident": "Nelson A Rockefeller",
+      "quotes": []
+    },
+    {
+      "name": "James Earl Carter",
+      "party": "Democratic",
+      "serveOrder": 39,
+      "termBegin": 1977,
+      "termEnd": 1981,
+      "vicePresident": "Walter F Mondale",
+      "quotes": []
+    },
+    {
+      "name": "Ronald Reagan",
+      "party": "Republican",
+      "serveOrder": 40,
+      "termBegin": 1981,
+      "termEnd": 1989,
+      "vicePresident": "George Bush",
+      "quotes": []
+    },
+    {
+      "name": "George Bush",
+      "party": "Republican",
+      "serveOrder": 41,
+      "termBegin": 1989,
+      "termEnd": 1993,
+      "vicePresident": "Dan Quayle",
+      "quotes": []
+    },
+    {
+      "name": "William J Clinton",
+      "party": "Democratic",
+      "serveOrder": 42,
+      "termBegin": 1993,
+      "termEnd": 2001,
+      "vicePresident": "Albert Gore",
+      "quotes": []
+    },
+    {
+      "name": "George W Bush",
+      "party": "Republican",
+      "serveOrder": 43,
+      "termBegin": 2001,
+      "termEnd": 2009,
+      "vicePresident": "Dick Cheney",
+      "quotes": []
+    },
+    {
+      "name": "Barack H Obama",
+      "party": "Democratic",
+      "serveOrder": 44,
+      "termBegin": 2009,
+      "termEnd": 2017,
+      "vicePresident": "Joseph R Biden",
+      "quotes": []
+    },
+    {
+      "name": "Donald J Trump",
+      "party": "Republican",
+      "serveOrder": 45,
+      "termBegin": 2017,
+      "termEnd": 2021,
+      "vicePresident": "Michael Pence",
+      "quotes": []
+    },
+    {
+      "name": "Joseph R Biden",
+      "party": "Democratic",
+      "serveOrder": 46,
+      "termBegin": 2021,
+      "termEnd": "Present",
+      "vicePresident": "Michael Pence",
+      "quotes": []
+    }
+  ]
+}
