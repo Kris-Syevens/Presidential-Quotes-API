@@ -67,7 +67,13 @@
       "termBegin": 1817,
       "termEnd": 1825,
       "vicePresident": "Daniel D Tompkins",
-      "quotes": []
+      "quotes": [
+        "There is a price tag on human liberty. That price is the willingness to assume the responsibilities of being free men. Payment of this price is a personal matter with each of us.",
+        "We must support our rights or lose our character, and with it, perhaps, our liberties.",
+        "The best form of government is that which is most likely to prevent the greatest sum of evil.",
+        "If we look to the history of other nations, ancient or modern, we find no example of a growth so rapid, so gigantic, of a people so prosperous and happy.",
+        "The earth was given to mankind to support the greatest number of which it is capable, and no tribe or people have a right to withhold from the wants of others more than is necessary for their own support and comfort."
+      ]
     },
     {
       "name": "John Quincy Adams",
@@ -76,7 +82,13 @@
       "termBegin": 1825,
       "termEnd": 1829,
       "vicePresident": "John C Calhoun",
-      "quotes": []
+      "quotes": [
+        "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+        "Always vote for principle, though you may vote alone, and you may cherish the sweetest reflection that your vote is never lost.",
+        "We have no government armed with power capable of contending with human passions unbridled by morality and religion. Our constitution was made for a moral and religious people... it is wholly inadequate to the government of any other.",
+        "I have to study politics and war so that my sons can study mathematics, commerce and agriculture, so their sons can study poetry, painting and music.",
+        "Individual liberty is individual power."
+      ]
     },
     {
       "name": "Andrew Jackson",
@@ -85,7 +97,12 @@
       "termBegin": 1829,
       "termEnd": 1837,
       "vicePresident": ["John C Calhoun", "Martin Van Buren"],
-      "quotes": []
+      "quotes": [
+        "It is a damn poor mind that can think of only one way to spell a word.",
+        "I was born for the storm, and a calm does not suit me.",
+        "One man with courage makes a majority.",
+        "If Congress has the right under the constitution to issue paper money, it was given them to be used by themselves, not to be delegated to individuals or corporations."
+      ]
     },
     {
       "name": "Martin Van Buren",
@@ -94,7 +111,13 @@
       "termBegin": 1837,
       "termEnd": 1841,
       "vicePresident": "Richard M Johnson",
-      "quotes": []
+      "quotes": [
+        "As to the presidency, the two happiest days of my life were those of my entrance upon the office and my surrender of it.",
+        "There is a power in public opinion in this country - and I thank God for it: for it is the most honest and best of all powers - which will not tolerate an incompetent or unworthy man to hold in his weak or wicked hands the lives and fortunes of his fellow-citizens.",
+        "The less government interferes with private pursuits, the better for general prosperity.",
+        "The government should not be guided by Temporary Excitement, but by Sober Second Thought.",
+        "On receiving from the people the sacred trust twice confided on my illustrious predecessor, and which he has discharged so faithfully and so well, I know that I can not expect to perform the arduous task with equal ability and success."
+      ]
     },
     {
       "name": "William Henry Harrison",
@@ -103,7 +126,11 @@
       "termBegin": 1841,
       "termEnd": 1841,
       "vicePresident": "John Tyler",
-      "quotes": []
+      "quotes": [
+        "There is nothing more corrupting, nothing more destructive of the noblest and finest feelings of our nature, than the exercise of unlimited power.",
+        "The virtue of its Citizens is the only Support of a Republican government.",
+        "The only legitimate right to govern is an express grant of power from the governed."
+      ]
     },
     {
       "name": "John Tyler",
@@ -112,7 +139,13 @@
       "termBegin": 1841,
       "termEnd": 1845,
       "vicePresident": "None",
-      "quotes": []
+      "quotes": [
+        "I contend that the strongest of all governments is that which is most free.",
+        "I can never consent to being dictated to.",
+        "The United States have adventured upon a great and noble experiment, which is believed to have been hazarded in the absence of all previous precedent - that of total separation of Church and State. No religious establishment by law exists among us. The conscience is left free from all restraint and each is permitted to worship his Maker after his own judgement.",
+        "If we find ourselves increasing beyond example in numbers, in strength, in wealth, in knowledge, in everything which promotes human and social happiness, let us ever remember our dependence for all these on the protection and merciful dispensations of Divine Providence.",
+        "Wealth can only be accumulated by the earnings of industry and the savings of frugality."
+      ]
     },
     {
       "name": "James K Polk",
