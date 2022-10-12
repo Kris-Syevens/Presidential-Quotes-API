@@ -154,7 +154,13 @@
       "termBegin": 1845,
       "termEnd": 1849,
       "vicePresident": "George M Dallas",
-      "quotes": []
+      "quotes": [
+        "No president who performs his duties faithfully and conscientiously can have any leisure.",
+        "I am heartily rejoiced that my term is so near its close. I will soon cease to be a servant and will become a sovereign.",
+        "I would bring the government back to what it was intended to be - a plain economical government.",
+        "One great object of the Constitution was to restrain majorities from oppressing minorities or encroaching upon their just rights.",
+        "The world has nothing to fear from military ambition in our Government."
+      ]
     },
     {
       "name": "Zachary Taylor",
@@ -163,7 +169,13 @@
       "termBegin": 1849,
       "termEnd": 1850,
       "vicePresident": "Millard Fillmore",
-      "quotes": []
+      "quotes": [
+        "I have always done my duty. I am ready to die. My only regret is for the friends I leave behind me.",
+        "Never judge a stranger by his clothes.",
+        "For more than a quarter of a century on active duty, my house has been my tent, and my home the battlefield.",
+        "As American freemen, we cannot but sympathize in all efforts to extend the blessings of civil and political liberty, but at the same time, we are warned by the admonitions of history and the voice of our own beloved Washington to abstain from entangling alliances with foreign nations.",
+        "As to the Constitution and the Union, I have taken an oath to support the one, and I cannot do so without preserving the other, unless I commit perjury, which I certainly don't intend to do. We must cherish the Constitution to the last."
+      ]
     },
     {
       "name": "Millard Fillmore",
@@ -172,7 +184,13 @@
       "termBegin": 1850,
       "termEnd": 1853,
       "vicePresident": "None",
-      "quotes": []
+      "quotes": [
+        "May God save the country, for it is evident that the people will not.",
+        "It is not strange... to mistake change for progress.",
+        "Upon you, fellow-citizens, as the representatives of the States and the people, is wisely devolved the legislative power.",
+        "Nations, like individuals in a state of nature, are equal and independent, possessing certain rights and owing certain duties to each other.",
+        "God knows I detest slavery but it is an existing evil, and we must endure it and give it such protection as is guaranteed by the Constitution."
+      ]
     },
     {
       "name": "Franklin Pierce",
@@ -181,7 +199,13 @@
       "termBegin": 1853,
       "termEnd": 1857,
       "vicePresident": "William R King",
-      "quotes": []
+      "quotes": [
+        "If your past is limited, your future is boundless.",
+        "While men inhabiting different parts of this vast continent cannot be expected to hold the same opinions, they can unite in a common objective and sustain common principles.",
+        "You have summoned me in my weakness. You must sustain me in your strength.",
+        "I can express no better hope for my country than that the kind Providence which smiled upon our fathers may enable their children to preserve the blessings they have inherited.",
+        "I cannot find any authority in the Constitution for public charity."
+      ]
     },
     {
       "name": "James Buchanan",
@@ -190,7 +214,13 @@
       "termBegin": 1857,
       "termEnd": 1861,
       "vicePresident": "John C Beckinridge",
-      "quotes": []
+      "quotes": [
+        "What is right and what is practicable are two different things.",
+        "If you are as happy in entering the White House as I shall feel on returning to Wheatland, you are a happy man indeed.",
+        "I like the noise of democracy.",
+        "The test of leadership is not to put greatness into humanity, but to elicit it, for the greatness is already there.",
+        "The ballot box is the surest arbiter of disputes among free men."
+      ]
     },
     {
       "name": "Abraham Lincoln",
@@ -199,7 +229,13 @@
       "termBegin": 1861,
       "termEnd": 1865,
       "vicePresident": ["Hannibal Hamlin", "Andrew Johnson"],
-      "quotes": []
+      "quotes": [
+        "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+        "The ballot is stronger than the bullet.",
+        "You cannot escape the responsibility of tomorrow by evading it today.",
+        "Be sure you put your feet in the right place, then stand firm.",
+        "Most folks are as happy as they make up their minds to be."
+      ]
     },
     {
       "name": "Andrew Johnson",
@@ -208,7 +244,13 @@
       "termBegin": 1865,
       "termEnd": 1869,
       "vicePresident": "None",
-      "quotes": []
+      "quotes": [
+        "Peace, above all things, is to be desired, but blood must sometimes be spilled to obtain it on equable and lasting terms.",
+        "I weep for the liberty of my country when I see at this early day of its successful experiment that corruption has been imputed to many members of the House of Representatives, and the rights of the people have been bartered for promises of office.",
+        "Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.",
+        "Every good citizen makes his country's honor his own, and cherishes it not only as precious but as sacred. He is willing to risk his life in its defense and is conscious that he gains protection while he gives it.",
+        "Democracy shows not only its power in reforming governments, but in regenerating a race of men and this is the greatest blessing of free governments."
+      ]
     },
     {
       "name": "Ulysses S Grant",
@@ -217,7 +259,13 @@
       "termBegin": 1869,
       "termEnd": 1877,
       "vicePresident": ["Schuyler Colfax", "Henry Wilson"],
-      "quotes": []
+      "quotes": [
+        "The art of war is simple enough. Find out where your enemy is. Get at him as soon as you can. Strike him as hard as you can, and keep moving on.",
+        "My failures have been errors in judgment, not of intent.",
+        "I have never advocated war except as a means of peace.",
+        "No other terms than unconditional and immediate surrender. I propose to move immediately upon your works.",
+        "In every battle there comes a time when both sides consider themselves beaten, then he who continues the attack wins."
+      ]
     },
     {
       "name": "Rutherford B Hayes",
@@ -226,7 +274,13 @@
       "termBegin": 1877,
       "termEnd": 1881,
       "vicePresident": "William A Wheeler",
-      "quotes": []
+      "quotes": [
+        "He serves his party best who serves his country best.",
+        "The bold enterprises are the successful ones. Take counsel of hopes rather than of fears to win in this business.",
+        "To vote is like the payment of a debt, a duty never to be neglected, if its performance is possible.",
+        "Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration; but the soldier's occupation we cannot say is gone until human nature is gone.",
+        "It is the desire of the good people of the whole country that sectionalism as a factor in our politics should disappear."
+      ]
     },
     {
       "name": "James A Garfield",
@@ -235,7 +289,13 @@
       "termBegin": 1881,
       "termEnd": 1881,
       "vicePresident": "Chester A Arthur",
-      "quotes": []
+      "quotes": [
+        "He who controls the money supply of a nation controls the nation.",
+        "The truth will set you free, but first it will make you miserable.",
+        "All free governments are managed by the combined wisdom and folly of the people.",
+        "Justice and goodwill will outlast passion.",
+        "The chief duty of government is to keep the peace and stand out of the sunshine of the people."
+      ]
     },
     {
       "name": "Chester A Arthur",
