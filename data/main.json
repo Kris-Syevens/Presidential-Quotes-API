@@ -304,7 +304,13 @@
       "termBegin": 1881,
       "termEnd": 1885,
       "vicePresident": "None",
-      "quotes": []
+      "quotes": [
+        "Men may die, but the fabrics of free institutions remains unshaken.",
+        "I may be president of the United States, but my private life is nobody's damned business.",
+        "The extravagant expenditure of public money is an evil not to be measured by the value of that money to the people who are taxed for it.",
+        "It is provided by the Constitution that the President shall from time to time give to the Congress information of the state of the Union and recommend to their consideration such measures as he shall judge necessary and expedient.",
+        "The health of the people is of supreme importance. All measures looking to their protection against the spread of contagious diseases and to the increase of our sanitary knowledge for such purposes deserve attention of Congress."
+      ]
     },
     {
       "name": "Grover Cleveland",
@@ -313,7 +319,13 @@
       "termBegin": 1885,
       "termEnd": 1889,
       "vicePresident": "Thomas A Hendricks",
-      "quotes": []
+      "quotes": [
+        "Honor lies in honest toil.",
+        "I have tried so hard to do right.",
+        "The ship of democracy, which has weathered all storms, may sink through the mutiny of those on board.",
+        "Communism is a hateful thing, and a menace to peace and organized government.",
+        "Though the people support the government, the government should not support the people."
+      ]
     },
     {
       "name": "Benjamin Harrison",
@@ -322,7 +334,13 @@
       "termBegin": 1889,
       "termEnd": 1893,
       "vicePresident": "Levi P Morton",
-      "quotes": []
+      "quotes": [
+        "I pity the man who wants a coat so cheap that the man or woman who produces the cloth will starve in the process.",
+        "Great lives never go out; they go on.",
+        "The bud of victory is always in the truth.",
+        "We Americans have no commission from God to police the world.",
+        "No other people have a government more worthy of their respect and love or a land so magnificent in extent, so pleasant to look upon, and so full of generous suggestion to enterprise and labor."
+      ]
     },
     {
       "name": "Grover Cleveland",
@@ -331,7 +349,13 @@
       "termBegin": 1893,
       "termEnd": 1897,
       "vicePresident": "Adlai E Stevenson",
-      "quotes": []
+      "quotes": [
+        "Honor lies in honest toil.",
+        "I have tried so hard to do right.",
+        "The ship of democracy, which has weathered all storms, may sink through the mutiny of those on board.",
+        "Communism is a hateful thing, and a menace to peace and organized government.",
+        "Though the people support the government, the government should not support the people."
+      ]
     },
     {
       "name": "William McKinley",
@@ -340,7 +364,13 @@
       "termBegin": 1897,
       "termEnd": 1901,
       "vicePresident": ["Garret A Hobart", "Theodore Roosevelt"],
-      "quotes": []
+      "quotes": [
+        "In the time of darkest defeat, victory may be nearest.",
+        "The mission of the United States is one of benevolent assimilation.",
+        "The free man cannot be long an ignorant man.",
+        "Expositions are the timekeepers of progress.",
+        "War should never be entered upon until every agency of peace has failed."
+      ]
     },
     {
       "name": "Theodore Roosevelt",
@@ -349,7 +379,13 @@
       "termBegin": 1901,
       "termEnd": 1909,
       "vicePresident": "Charles W Fairbanks",
-      "quotes": []
+      "quotes": [
+        "Speak softly and carry a big stick; you will go far.",
+        "It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself for a worthy cause; who, at the best, knows, in the end, the triumph of high achievement, and who, at the worst, if he fails, at least he fails while daring greatly, so that his place shall never be with those cold and timid souls who knew neither victory nor defeat.",
+        "Viewed purely in the abstract, I think there can be no question that women should have equal rights with men.",
+        "Optimism is a good characteristic, but if carried to an excess, it becomes foolishness. We are prone to speak of the resources of this country as inexhaustible; this is not so.",
+        "If a man does not have an ideal and try to live up to it, then he becomes a mean, base and sordid creature, no matter how successful."
+      ]
     },
     {
       "name": "William H Taft",
@@ -358,7 +394,13 @@
       "termBegin": 1909,
       "termEnd": 1913,
       "vicePresident": "James S Sherman",
-      "quotes": []
+      "quotes": [
+        "A government is for the benefit of all the people.",
+        "I am in favor of helping the prosperity of all countries because, when we are all prosperous, the trade with each becomes more valuable to the other.",
+        "Enthusiasm for a cause sometimes warps judgment.",
+        "We are all imperfect. We can not expect perfect government.",
+        "Presidents come and go, but the Supreme Court goes on forever."
+      ]
     },
     {
       "name": "Woodrow Wilson",
@@ -367,7 +409,13 @@
       "termBegin": 1913,
       "termEnd": 1921,
       "vicePresident": "Thomas R Marshall",
-      "quotes": []
+      "quotes": [
+        "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+        "The man who is swimming against the stream knows the strength of it.",
+        "I not only use all the brains that I have, but all that I can borrow.",
+        "The history of liberty is a history of resistance.",
+        "The ear of the leader must ring with the voices of the people."
+      ]
     },
     {
       "name": "Warren G Harding",
@@ -376,7 +424,13 @@
       "termBegin": 1921,
       "termEnd": 1923,
       "vicePresident": "Calvin Coolidge",
-      "quotes": []
+      "quotes": [
+        "I don't know much about Americanism, but it's a damn good word with which to carry an election.",
+        "America's present need is not heroics but healing; not nostrums but normalcy; not revolution but restoration.",
+        "I would not be my natural self if I did not utter my consciousness of my limited ability to meet your full expectation or to realize the aspirations within my own breast. But I'll gladly give all that is in me, all of heart, soul, and mind and the fighting love of country, to service in our common cause. I can only pray to the omnipotent God that I may be as worthy in service as I know myself to be faithful in thought and purpose. One cannot give more.",
+        "Honesty is the great essential. It exalts the individual citizenship, and, without honesty, no man deserves the confidence of the people in private pursuit or in public office.",
+        "We must have a citizenship less concerned about what the government can do for it and more anxious about what it can do for the nation."
+      ]
     },
     {
       "name": "Calvin Coolidge",
@@ -385,7 +439,13 @@
       "termBegin": 1923,
       "termEnd": 1929,
       "vicePresident": "Charles G Dawes",
-      "quotes": []
+      "quotes": [
+        "All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.",
+        "No person was ever honored for what he received. Honor has been the reward for what he gave.",
+        "It takes a great man to be a good listener.",
+        "I have never been hurt by what I have not said.",
+        "The nation which forgets its defenders will be itself forgotten."
+      ]
     },
     {
       "name": "Herbert C Hoover",
@@ -394,7 +454,7 @@
       "termBegin": 1929,
       "termEnd": 1933,
       "vicePresident": "Charles Curtis",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Franklin D Roosevelt",
@@ -403,7 +463,7 @@
       "termBegin": 1933,
       "termEnd": 1945,
       "vicePresident": ["John N Garner", "Henry A Wallace", "Harry S Truman"],
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Harry S Truman",
@@ -412,7 +472,7 @@
       "termBegin": 1945,
       "termEnd": 1953,
       "vicePresident": "Alben W Barkley",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Dwight D Eisenhower",
@@ -421,7 +481,7 @@
       "termBegin": 1953,
       "termEnd": 1961,
       "vicePresident": "Richard M Nixon",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "John F Kennedy",
@@ -430,7 +490,7 @@
       "termBegin": 1961,
       "termEnd": 1963,
       "vicePresident": "Lyndon B Johnson",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Lyndon B Johnson",
@@ -439,7 +499,7 @@
       "termBegin": 1963,
       "termEnd": 1969,
       "vicePresident": "Hubert H Humphrey",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Richard M Nixon",
@@ -448,7 +508,7 @@
       "termBegin": 1969,
       "termEnd": 1974,
       "vicePresident": ["Spiro T Agnew", "Gerald R Ford"],
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Gerald R Ford",
@@ -457,7 +517,7 @@
       "termBegin": 1974,
       "termEnd": 1977,
       "vicePresident": "Nelson A Rockefeller",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "James Earl Carter",
@@ -466,7 +526,7 @@
       "termBegin": 1977,
       "termEnd": 1981,
       "vicePresident": "Walter F Mondale",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Ronald Reagan",
@@ -475,7 +535,7 @@
       "termBegin": 1981,
       "termEnd": 1989,
       "vicePresident": "George Bush",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "George Bush",
@@ -484,7 +544,7 @@
       "termBegin": 1989,
       "termEnd": 1993,
       "vicePresident": "Dan Quayle",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "William J Clinton",
@@ -493,7 +553,7 @@
       "termBegin": 1993,
       "termEnd": 2001,
       "vicePresident": "Albert Gore",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "George W Bush",
@@ -502,7 +562,7 @@
       "termBegin": 2001,
       "termEnd": 2009,
       "vicePresident": "Dick Cheney",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Barack H Obama",
@@ -511,7 +571,7 @@
       "termBegin": 2009,
       "termEnd": 2017,
       "vicePresident": "Joseph R Biden",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Donald J Trump",
@@ -520,7 +580,7 @@
       "termBegin": 2017,
       "termEnd": 2021,
       "vicePresident": "Michael Pence",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     },
     {
       "name": "Joseph R Biden",
@@ -529,7 +589,7 @@
       "termBegin": 2021,
       "termEnd": "Present",
       "vicePresident": "Michael Pence",
-      "quotes": []
+      "quotes": ["", "", "", "", ""]
     }
   ]
 }
