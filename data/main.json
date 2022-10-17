@@ -454,7 +454,13 @@
       "termBegin": 1929,
       "termEnd": 1933,
       "vicePresident": "Charles Curtis",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Children are our greatest natural resource.",
+        "My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor.",
+        "Older men declare war. But it is youth that must fight and die.",
+        "The only problem with capitalism is the capitalists.",
+        "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."
+      ]
     },
     {
       "name": "Franklin D Roosevelt",
@@ -463,7 +469,13 @@
       "termBegin": 1933,
       "termEnd": 1945,
       "vicePresident": ["John N Garner", "Henry A Wallace", "Harry S Truman"],
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "The only thing we have to fear is fear itself.",
+        "Men and nature must work hand in hand. The throwing out of balance of the resources of nature throws out of balance also the lives of men.",
+        "No country, however rich, can afford the waste of its human resources. Demoralization caused by vast unemployment is our greatest extravagance. Morally, it is the greatest menace to our social order.",
+        "We must be the great arsenal of democracy.",
+        "More than an end to war, we want an end to the beginnings of all wars."
+      ]
     },
     {
       "name": "Harry S Truman",
@@ -472,7 +484,13 @@
       "termBegin": 1945,
       "termEnd": 1953,
       "vicePresident": "Alben W Barkley",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "You want a friend in Washington? Get a dog.",
+        "Actions are the seed of fate deeds grow into destiny.",
+        "A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties.",
+        "In reading the lives of great men, I found that the first victory they won was over themselves... self-discipline with all of them came first.",
+        "I have found the best way to give advice to your children is to find out what they want and then advise them to do it."
+      ]
     },
     {
       "name": "Dwight D Eisenhower",
@@ -481,7 +499,13 @@
       "termBegin": 1953,
       "termEnd": 1961,
       "vicePresident": "Richard M Nixon",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "For history does not long entrust the care of freedom to the weak or the timid.",
+        "A people that values its privileges above its principles soon loses both.",
+        "Whatever America hopes to bring to pass in the world must first come to pass in the heart of America.",
+        "There is -- in world affairs -- a steady course to be followed between an assertion of strength that is truculent and a confession of helplessness that is cowardly.",
+        "I propose to use whatever authority exists in the office of the President to end segregation in the District of Columbia, including the Federal Government, and any segregation in the Armed Forces."
+      ]
     },
     {
       "name": "John F Kennedy",
@@ -490,7 +514,13 @@
       "termBegin": 1961,
       "termEnd": 1963,
       "vicePresident": "Lyndon B Johnson",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "A nation reveals itself not only by the men it produces but also by the men it honors, the men it remembers.",
+        "A man may die, nations may rise and fall, but an idea lives on.",
+        "When I ran for Presidency of the United States, I knew that this country faced serious challenges, but I could not realize - nor could any man realize who does not bear the burdens of this office - how heavy and constant would be those burdens.",
+        "But however close we sometimes seem to that dark and final abyss, let no man of peace and freedom despair. For he does not stand alone.",
+        "Increased responsibility goes with increased ability, for 'of those to whom much is given, much is required."
+      ]
     },
     {
       "name": "Lyndon B Johnson",
@@ -499,7 +529,13 @@
       "termBegin": 1963,
       "termEnd": 1969,
       "vicePresident": "Hubert H Humphrey",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Yesterday is not ours to recover, but tomorrow is ours to win or lose.",
+        "You aren't learning anything when you're talking.",
+        "Peace is a journey of a thousand miles and it must be taken one step at a time.",
+        "There are no problems we cannot solve together, and very few that we can solve by ourselves.",
+        "We must open the doors of opportunity. But we must also equip our people to walk through those doors."
+      ]
     },
     {
       "name": "Richard M Nixon",
@@ -508,7 +544,13 @@
       "termBegin": 1969,
       "termEnd": 1974,
       "vicePresident": ["Spiro T Agnew", "Gerald R Ford"],
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "If you want to make beautiful music, you must play the black and the white notes together.",
+        "Those who hate you don't win unless you hate them, and then you destroy yourself.",
+        "Only if you have been in the deepest valley, can you ever know how magnificent it is to be on the highest mountain.",
+        "A man is not finished when he is defeated. He is finished when he quits.",
+        "If you take no risks, you will suffer no defeats. But if you take no risks, you win no victories."
+      ]
     },
     {
       "name": "Gerald R Ford",
@@ -517,7 +559,13 @@
       "termBegin": 1974,
       "termEnd": 1977,
       "vicePresident": "Nelson A Rockefeller",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "A government big enough to give you everything you want is a government big enough to take from you everything you have.",
+        "Our Constitution works; our great republic is a government of laws and not of men. Here, the people rule.",
+        "I am a Ford, not a Lincoln.",
+        "History and experience tell us that moral progress comes not in comfortable and complacent times, but out of trial and confusion.",
+        "Truth is the glue that holds government together."
+      ]
     },
     {
       "name": "James Earl Carter",
@@ -526,7 +574,13 @@
       "termBegin": 1977,
       "termEnd": 1981,
       "vicePresident": "Walter F Mondale",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "We must adjust to changing times and still hold to unchanging principles.",
+        "We become not a melting pot but a beautiful mosaic. Different people, different beliefs, different yearnings, different hopes, different dreams.",
+        "Human rights is the soul of our foreign policy, because human rights is the very soul of our sense of nationhood.",
+        "Unless both sides win, no agreement can be permanent.",
+        "Aggression unopposed becomes a contagious disease."
+      ]
     },
     {
       "name": "Ronald Reagan",
@@ -535,7 +589,13 @@
       "termBegin": 1981,
       "termEnd": 1989,
       "vicePresident": "George Bush",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "A people free to choose will always choose peace.",
+        "Freedom is never more than one generation away from extinction. We didn't pass it to our children in the bloodstream. It must be fought for, protected, and handed on for them to do the same.",
+        "The trouble with our Liberal friends is not that they're ignorant; it's just that they know so much that isn't so.",
+        "The most terrifying words in the English language are: I'm from the government and I'm here to help.",
+        "We can't help everyone, but everyone can help someone."
+      ]
     },
     {
       "name": "George Bush",
@@ -544,7 +604,13 @@
       "termBegin": 1989,
       "termEnd": 1993,
       "vicePresident": "Dan Quayle",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "I have opinions of my own, strong opinions, but I don't always agree with them.",
+        "We are a nation of communities... a brilliant diversity spread like stars, like a thousand points of light in a broad and peaceful sky.",
+        "I will keep America moving forward, always forward, for a better America, for an endless enduring dream and a thousand Points of Light. This is my mission, and I will complete it.",
+        "I stand for anti-bigotry, anti-Semitism, and anti-racism.",
+        "Every loss of life is terrible."
+      ]
     },
     {
       "name": "William J Clinton",
@@ -553,7 +619,13 @@
       "termBegin": 1993,
       "termEnd": 2001,
       "vicePresident": "Albert Gore",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "You can put wings on a pig, but you don't make it an eagle.",
+        "There is nothing wrong with America that cannot be cured with what is right in America.",
+        "We must teach our children to resolve their conflicts with words, not weapons.",
+        "Promising too much can be as cruel as caring too little.",
+        "Character is a journey, not a destination."
+      ]
     },
     {
       "name": "George W Bush",
@@ -562,7 +634,13 @@
       "termBegin": 2001,
       "termEnd": 2009,
       "vicePresident": "Dick Cheney",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Leadership to me means duty, honor, country. It means character, and it means listening from time to time.",
+        "We will not waver; we will not tire; we will not falter, and we will not fail. Peace and Freedom will prevail.",
+        "America is the land of the second chance - and when the gates of the prison open, the path ahead should lead to a better life.",
+        "Use power to help people. For we are given power not to advance our own purposes nor to make a great show in the world, nor a name. There is but one just use of power and it is to serve people.",
+        "I have a different vision of leadership. A leadership is someone who brings people together."
+      ]
     },
     {
       "name": "Barack H Obama",
@@ -571,7 +649,13 @@
       "termBegin": 2009,
       "termEnd": 2017,
       "vicePresident": "Joseph R Biden",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.",
+        "The future rewards those who press on. I don't have time to feel sorry for myself. I don't have time to complain. I'm going to press on.",
+        "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+        "We, the People, recognize that we have responsibilities as well as rights; that our destinies are bound together; that a freedom which only asks what's in it for me, a freedom without a commitment to others, a freedom without love or charity or duty or patriotism, is unworthy of our founding ideals, and those who died in their defense.",
+        "Understand, our police officers put their lives on the line for us every single day. They've got a tough job to do to maintain public safety and hold accountable those who break the law."
+      ]
     },
     {
       "name": "Donald J Trump",
@@ -580,7 +664,13 @@
       "termBegin": 2017,
       "termEnd": 2021,
       "vicePresident": "Michael Pence",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Experience taught me a few things. One is to listen to your gut, no matter how good something sounds on paper. The second is that you're generally better off sticking with what you know. And the third is that sometimes your best investments are the ones you don't make.",
+        "If you're going to be thinking, you may as well think big.",
+        "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+        "One of the key problems today is that politics is such a disgrace, good people don't go into government.",
+        "In the end, you're measured not by how much you undertake but by what you finally accomplish."
+      ]
     },
     {
       "name": "Joseph R Biden",
@@ -589,7 +679,13 @@
       "termBegin": 2021,
       "termEnd": "Present",
       "vicePresident": "Michael Pence",
-      "quotes": ["", "", "", "", ""]
+      "quotes": [
+        "Let me tell you what I literally told every world leader I've met with, and I've met them all: It's never, never, never been a good bet to bet against America. We have the finest fighting force in the world.",
+        "We are America, second to none, and we own the finish line. Don't forget it.",
+        "Our future cannot depend on the government alone. The ultimate solutions lie in the attitudes and the actions of the American people.",
+        "Given a fair shot, given a fair chance, Americans have never, ever, ever, ever let their country down. Never. Never. Ordinary people like us. Who do extraordinary things.",
+        "Life is a matter of really tough choices."
+      ]
     }
   ]
 }
