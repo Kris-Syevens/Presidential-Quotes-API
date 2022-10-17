@@ -6,6 +6,7 @@ const {
 } = require("../controllers/apiControllers");
 
 router.route("/all").get(getAllPresidents);
-router.route("/:id").get(getPresident);
+
+// router.route("/:name").get(getPresident);
 
 module.exports = router;
